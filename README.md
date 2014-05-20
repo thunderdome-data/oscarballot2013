@@ -5,7 +5,7 @@ What is this?
 -------------
 
 A PHP and JS tool to display nominees in an event and collect user votes on predicted winners. This iteration was used for the 2013 Oscars.
-Demo: http://data.digitalfirstmedia.com/oscarballot14/
+Live demo: http://www.mercurynews.com/entertainment/ci_22612415/
 
 
 Credits
